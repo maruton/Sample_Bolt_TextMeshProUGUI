@@ -27,6 +27,9 @@ Assets/Ludiq/Bolt.Flow/Generated/UnitOptions.db.meta
 Assets/Ludiq/Ludiq.Core/Generated/Property Providers
 Assets/Ludiq/Ludiq.Core/Generated/Property Providers.meta
 
+## Bolt Install directory
+Assets/Install\ Bolt
+
 ## Unity
 # From: https://github.com/github/gitignore/blob/master/Unity.gitignore
 
